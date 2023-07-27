@@ -1,11 +1,11 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif" width="100"/>
   '<div id="badges">
-  <a href="https://www.linkedin.com/in/firdous-wani-b21063207">
+  <a href="https://www.linkedin.com/in/syed-ikram-uddin-b74916187/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   
-  <a href="https://www.instagram.com/wani___firdous">
+  <a href="https://www.instagram.com/iam_syed_ikram/">
     <img src="https://img.shields.io/badge/Instagram-pink?style=for-the-badge&logo=instagram&logoColor=red" alt="Instagram Badge"/>
   </a>
 </div>
@@ -22,10 +22,10 @@
 ---
 
 ### :man_technologist: About Me :
-I am a Front End  Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+I am a Front End  Developer & Graphic Designer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 - :telescope: I'm a computer science engineering student and  a Front End Developer.
 
-- :seedling: Learning Full Stack Web Developement.
+- :seedling: Aspiring to be a Full Stack Web Developer.
 
 - :zap: In my free time, I solve DSA problems on LeetCode, GeeksForGeeks, Codechef
 , HackerRank and read tech articles.
